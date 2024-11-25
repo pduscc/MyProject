@@ -14,3 +14,5 @@ while x[n] != -1:
 a = s/n
 
 print (n,s,m,a)
+
+# it looks like I learned how to use git today

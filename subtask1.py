@@ -5,3 +5,5 @@ while n>=(q*q):
     print(q)
 q = q-1
 print(n,q*q)
+
+# it looks like I learned how to use git today
